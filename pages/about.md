@@ -8,6 +8,6 @@ permalink: /about
 
 I'm Shah
 I'm from the UK
-I have economics degress
+I have economics degrees, Bsc & MSc
 Currently working on ym data analysis skills
 Have embarked on a data analytics programme with Imperial College Business School
