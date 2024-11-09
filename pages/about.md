@@ -6,4 +6,8 @@ permalink: /about
 
 # Shah4Code's Portfolio
 
-Isn't it great
+I'm Shah
+I'm from the UK
+I have economics degress
+Currently working on ym data analysis skills
+Have embarked on a data analytics programme with Imperial College Business School
